@@ -1,1 +1,1 @@
-new_string = "bambik"
+new_string = "bambor"
