@@ -6,4 +6,8 @@ new_string5 = "dorota"
 new_string12 = "ala3"
 new_string12 = "ala4"
 new_string27 = "dorota3"
+<<<<<<< Updated upstream
 new_string28 = "dorotaaaa"
+=======
+new_string14 = "alaaaa2"
+>>>>>>> Stashed changes
